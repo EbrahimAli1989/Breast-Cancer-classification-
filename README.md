@@ -34,15 +34,15 @@ To train and test each model indepndently run the following files:
 
 ```python
 $ python3 Train_VGG16.py
-
+```
 * Multi-scale model:
 ``` python 
 $ python3 Train_multiscale.py
-
+```
 * Autoencoder model:
 ``` python 
 $ python3 Train_autoencoder.py
-
+```
 
 
 
