@@ -9,6 +9,10 @@ we propose a fusion of three models namely transfer learning, multi-scale and au
 Autoencoder use to extract features from noisy images.  We propose a novel multiscale deep learning model to address learning of US images
 with tumors of various sizes and shapes. Then, these three models fused using differential evolution (DE) algorithm to get the final results. 
 
-## Datasets :
+## Prerequisites
+### Install  Datasets :
 The two datasets utilized in this work is available at:
+
 https://academictorrents.com/details/d0b7b7ae40610bbeaea385aeb51658f527c86a16 and https://data.mendeley.com/datasets/wmy84gzngw/1
+
+
