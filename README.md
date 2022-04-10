@@ -47,7 +47,7 @@ $ python3 Train_autoencoder.py
 ## Evaluation:
 To evalute models using the ensemble combining strategy, you should run 
 ``` python 
-$ python3 Ensamble_combining.py
+$ python3 Ensamble_combining.py 
 ```
 ## License:
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
+This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/EbrahimAli1989/Breast-Cancer-classification-/blob/main/LICENSE) file for details
