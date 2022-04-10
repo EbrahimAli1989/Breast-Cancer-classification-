@@ -31,8 +31,9 @@ https://academictorrents.com/details/d0b7b7ae40610bbeaea385aeb51658f527c86a16 an
 ## Training and Testing 
 To train and test each model indepndently run the following files:
 ### Transfer learning model 
-'''python 
-python3 Train_VGG16.py
+
+```python
+$ python3 ggg.py
 
 
 
