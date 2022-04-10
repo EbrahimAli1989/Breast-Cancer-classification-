@@ -26,6 +26,6 @@ https://academictorrents.com/details/d0b7b7ae40610bbeaea385aeb51658f527c86a16 an
 * scikit-plot
 
 ## Configuration:
-Configuration.py is the main file used for project configuration and setup. Please read it carefully and update the paths and other setup parameters.
+'Configuration.py' is the main file used for project configuration and setup. Please read it carefully and update the paths and other setup parameters.
 
 
