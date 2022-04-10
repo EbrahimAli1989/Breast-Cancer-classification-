@@ -44,5 +44,9 @@ $ python3 Train_multiscale.py
 $ python3 Train_autoencoder.py
 ```
 
-
+## Evaluation:
+To evalute models using the ensemble combining strategy, you should run 
+``` python 
+$ python3 Ensamble_combining.py
+```
 
