@@ -10,9 +10,22 @@ Autoencoder use to extract features from noisy images.  We propose a novel multi
 with tumors of various sizes and shapes. Then, these three models fused using differential evolution (DE) algorithm to get the final results. 
 
 ## Prerequisites
-### Install  Datasets :
+### Download  Datasets :
 The two datasets utilized in this work is available at:
 
 https://academictorrents.com/details/d0b7b7ae40610bbeaea385aeb51658f527c86a16 and https://data.mendeley.com/datasets/wmy84gzngw/1
+
+### Install the following packages:
+* numpy
+* scipy
+* keras
+* pillow
+* tensorflow
+* scikit-learn
+* matplotlib
+* scikit-plot
+
+## Configuration:
+Configuration.py is the main file used for project configuration and setup. Please read it carefully and update the paths and other setup parameters.
 
 
