@@ -28,12 +28,21 @@ https://academictorrents.com/details/d0b7b7ae40610bbeaea385aeb51658f527c86a16 an
 ## Configuration:
 [Configuration.py](Configuration.py) is the main file used for project configuration and setup. Please read it carefully and update the paths and other setup parameters.
 
-## Training and Testing 
+## Training and Testing: 
 To train and test each model indepndently run the following files:
-### Transfer learning model 
+* Transfer learning model:
 
 ```python
-$ python3 ggg.py
+$ python3 Train_VGG16.py
+
+* Multi-scale model:
+``` python 
+$ python3 Train_multiscale.py
+
+* Autoencoder model:
+``` python 
+$ python3 Train_autoencoder.py
+
 
 
 
